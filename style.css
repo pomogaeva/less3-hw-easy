@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #fff;
+  margin: 0; 
+  padding: 10px;
+}
+
+section {
+  margin-bottom: 15px;
+}
+
+.sunset img {
+  width: 100%;
+}
+
+footer {
+  font-size: 20px;
+  background-color: #000;
+  
+}
+footer, .website-title, .cars {
+  color: #fff;
+  text-align: center;
+}
+
+.website-title  {
+  background-color: rgb(166,38,38);
+  font-size: 36px;
+}
+
+.cars img {
+  border: 3px dashed black;
+}
